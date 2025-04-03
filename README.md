@@ -23,21 +23,11 @@ The lab explores a wide array of topics. Our current focus areas include:
 4. **Vision-Based Flare Analytics**  
    Applying computer vision to analyze and monitor industrial flare systems for safety and environmental compliance.
 
-## 🗂 Repository Structure
-
-This GitHub account will host multiple repositories, each focused on a specific research subproject or tool. Each repository will include detailed documentation, datasets (where applicable), and code implementations.  
-
-Example repositories:
-- `digital-pathology-analysis`
-- `radiology-image-analysis`
-- `intruder-tracking-crowd`
-- `flare-analytics-vision`
-
 ## 📌 How to Contribute
 
 We welcome collaboration! If you're a student, researcher, or developer interested in contributing, feel free to:
 - Submit issues or pull requests in the respective repositories.
-- Contact us via [contact information or lab website if available].
+- Contact us via ```Naoufel.Werghi@ku.ac.ae``.
 
 ## 📄 License
 
@@ -47,9 +37,9 @@ All content in this repository is released under the [MIT License](LICENSE), unl
 
 For inquiries or collaboration opportunities, please reach out to:
 
-- **Lab Lead**: [Insert Name]  
-- **Email**: [Insert Contact Email]  
-- **Website**: [Insert Lab or University Website, if any]
+- **Lab Lead**: Professor Naoufel Werghi  
+- **Email**: ```Naoufel.Werghi@ku.ac.ae``  
+- **Website**: [Naoufel Werghi](https://naoufelwerghi.com/)
 
 ---
 
