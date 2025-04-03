@@ -27,7 +27,7 @@ The lab explores a wide array of topics. Our current focus areas include:
 
 We welcome collaboration! If you're a student, researcher, or developer interested in contributing, feel free to:
 - Submit issues or pull requests in the respective repositories.
-- Contact us via ```Naoufel.Werghi@ku.ac.ae``.
+- Contact us via `Naoufel.Werghi@ku.ac.ae`.
 
 ## 📄 License
 
