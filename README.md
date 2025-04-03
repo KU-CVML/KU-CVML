@@ -38,7 +38,7 @@ All content in this repository is released under the [MIT License](LICENSE), unl
 For inquiries or collaboration opportunities, please reach out to:
 
 - **Lab Lead**: Professor Naoufel Werghi  
-- **Email**: ```Naoufel.Werghi@ku.ac.ae``  
+- **Email**: `Naoufel.Werghi@ku.ac.ae`
 - **Website**: [Naoufel Werghi](https://naoufelwerghi.com/)
 
 ---
