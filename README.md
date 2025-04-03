@@ -1,7 +1,7 @@
 # Computer Vision and Machine Learning Lab  
 *Khalifa University*
 
-Welcome to the **Computer Vision and Machine Learning Lab (CVML Lab)** at **Khalifa University**. This GitHub organization serves as a central hub for our ongoing research, development, and experimentation in various domains of computer vision and machine learning.
+Welcome to the **Computer Vision and Machine Learning Lab (CVML Lab)** at **Khalifa University**, led by **Professor Naoufel Werghi**. This GitHub organization serves as a central hub for our ongoing research, development, and experimentation in various domains of computer vision and machine learning.
 
 ## 🌟 Project Objective
 
